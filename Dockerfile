@@ -1,5 +1,5 @@
 FROM solr:6.4
-MAINTAINER  Jason Dudash "jason.dudash@gmail.com"
+MAINTAINER  Barjahan Shaik "shaikbarjahan@gmail.com"
 
 USER root
 ENV STI_SCRIPTS_PATH=/usr/libexec/s2i
